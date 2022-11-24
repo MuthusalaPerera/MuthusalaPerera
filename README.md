@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawani Perera</h1>    
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate full stack developer from Sri Lanka </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/media/c333a921c9e2c6ecfe8ad7d65ef2252f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthusalaperera&label=Profile%20views&color=0e75b6&style=flat" alt="muthusalaperera" /> </p>
